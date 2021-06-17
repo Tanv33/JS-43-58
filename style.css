@@ -1,0 +1,51 @@
+ /* ***************************************Chapter 43-48********************************** */
+ /* .img_edit>img {
+    display: inline-block;
+    width: 370px;
+    height: fit-content;
+    margin: 4px;
+    padding: 5px;
+}
+ td {
+     padding: 5px;
+     word-spacing: 40px;
+ } */
+ /* #changeVal {
+     font-size: 50px;
+     text-align: center;
+ }
+ .changing {
+     text-align: center;
+     font-size: x-large;
+ }
+ 
+ button {
+     padding: 10px;
+     margin: 5px;
+     color: whitesmoke;
+     background-color: darkslategray;
+     border: none;
+ }
+ 
+ button:hover {
+     color: whitesmoke;
+     background-color: crimson;
+ }
+  */
+ /* ***************************************Chapter 49-52********************************** */
+ /* input {
+     padding: 7px;
+     margin: 6px;
+ } */
+ 
+ button {
+     background-color: solid;
+     border: none;
+     color: lightseagreen;
+     padding: 10px;
+ }
+ 
+ button:hover {
+     color: whitesmoke;
+     background-color: darkred;
+ }
